@@ -20,3 +20,5 @@ following error appears in the terminal:
 ```
 
 This is reproducible in Firefox 29.
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1007817
