@@ -1,11 +1,3 @@
-firefox-webrtc-addon-bug
-========================
-
-Demonstrates a Firefox bug using WebRTC in an AddOn
-
-Instructions
-------------
-
 1. Clone this repository.
 2. Run `make` to install the Firefox Add-on SDK.
 3. Run `./run.sh` to launch the add-on.
