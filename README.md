@@ -1,9 +1,11 @@
 1. Clone this repository.
 2. Run `make` to install the Firefox Add-on SDK.
 3. Run `./run.sh` to launch the add-on.
-4. Firefox shows a button in the toolbar with the Firefox logo. Clicking this loads [apprtcdemo.appspot.com](http://apprtcdemo.appspot.com) in a panel.
+4. Firefox shows a button in the toolbar with the Firefox logo. Clicking this
+   loads [apprtcdemo.appspot.com](http://apprtcdemo.appspot.com) in a panel.
 
-Depending on how early or late you click the button to show the panel, the following error appears in the terminal:
+Depending on how early or late you click the button to show the panel, the
+following error appears in the terminal:
 
 ```
 ************************************************************
